@@ -1,0 +1,19 @@
+# venv
+venv/
+
+# env
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+
+# system
+.DS_Store
+
+# project exclusives
+UI/__pycache__/
+data.json
