@@ -86,6 +86,21 @@ Coincidentally be **UI-agnostic**, meaning it can be reused with custom tkinter,
 
 ---
 
+## Project Structure
+
+```text
+.
+├── main.py
+├── logic.py
+└── ui/
+    ├── task_view.py
+    ├── shop_view.py
+    └── main window.py
+
+```
+
+---
+
 ## Ideas for future Improvements
 
 * Separate gamification logic into its own module
